@@ -44,19 +44,47 @@ p {
   margin-bottom: 0px;
 }
 
+.addressdiv {
+  height: 570px;
+  width: 100%;
+  background-color: #E6E6E6;
+
+}
+
 address .address {
-  font-size: 16px;
+  font-size: 20px;
+}
+
+address {
+  display: inline-block;
+  height: 90px;
+  width: 265px;
+  margin-top: 45px;
+  margin-left: 90px;
+  margin-bottom: 410px;
 }
 
 span {
   color: grey;
   font-style: normal;
+  font-size: 20px;
 }
 
 #ops {
   color: black;
   font-style: normal;
   font-family: "BPG Ingiri Arial", sans-serif;
+}
+
+#map {
+  display: inline-block;
+  height: 466px;
+  width: 874px;
+  float: right;
+  margin-top: 45px;
+  margin-right: 90px;
+  margin-left: 45px;
+  margin-bottom: 50px;
 }
 
 footer {
