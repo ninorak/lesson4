@@ -37,10 +37,70 @@ a {
   margin-right: 30px;
 }
 
-.G8 {margin-left: 30px;
+section {
+  margin-left: 30px;
+}
+
+.G8 {
   width: 1171px;
   height: 460px;
-  opacity: 1;
+  opacity: 100%;
+}
+
+div {
+  color: #F2F2F2;
+  height: 225px;
+  width: 570px;
+  display: inline-block;
+}
+
+.divapp {
+  margin-left: 30px;
+}
+
+#oo {
+  color: #000000;
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 115px;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+h3 {
+  color: #3D58A6;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+
+#web {
+  margin-left: 30px;
+}
+
+#app {
+  margin-left: 15px;
+}
+
+#para {
+  font-family: 'Roboto', sans-serif;
+  color: #333333;
+  display: inline-block;
+  height: 122px;
+  width: 340px;
+  margin-left: 60px;
+  margin-bottom: 50px;
+}
+
+.web {
+  margin-left: 40px;
+  height: 128px;
+  width: 102px;
+}
+
+.app {
+  margin-left: 40px;
+  height: 128px;
+  width: 86px;
 }
 
 footer {
